@@ -1,4 +1,6 @@
+print("VERCELWORK")
 
+"""
 # Use a pipeline as a high-level helper
 from transformers import pipeline
 
@@ -81,3 +83,4 @@ if __name__ == "__main__":
     print("Extracted Schedule Information:")
     print(schedule_info)
 
+"""
